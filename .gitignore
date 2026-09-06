@@ -1,0 +1,4 @@
+.env
+credentials.json
+last_read.txt
+venv/
