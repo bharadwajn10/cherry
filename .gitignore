@@ -1,4 +1,7 @@
 .env
 credentials.json
-last_read.txt
+last_read.json
+memory.txt
 venv/
+__pycache__/
+*.pyc
